@@ -1,1 +1,2 @@
-
+Hello the reote is added and i made a pull from upstream
+command : "git pull <upstream_branch_name> <branch_to_pull>"
