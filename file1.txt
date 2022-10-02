@@ -1,5 +1,6 @@
-Hello the reote is added and i made a pull from upstream
+Hello the remote is added and i made a pull from upstream
 command : "git pull <upstream_branch_name> <branch_to_pull_into>" 
 Fixed the typo to check pull into mayankmohak/Learm_git
 
 Now I will test cherry Pick
+Adding new changes into main to  and generate pr Cherry-Pick.
