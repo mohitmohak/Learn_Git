@@ -5,3 +5,9 @@ Fixed the typo to check pull into mayankmohak/Learm_git
 Now I will test cherry Pick
 Adding new changes into main to  and generate pr Cherry-Pick.
 Adding again new changes into main to  and generate pr Cherry-Pick.
+
+I moved the main branch forward and also the cherry pick branch and was able to get back changes on the forked repo.
+ - To get newly created branch of cloud(chotu-mayank) i followed:
+    - created new branch localy
+    - make it tracked to forked repo
+    - get changes from upstream [ `git pull upstream <branch_name>` then `git push origin <branch_name>`]
