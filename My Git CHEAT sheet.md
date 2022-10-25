@@ -1,7 +1,5 @@
 #						My Git CHEAT sheet
 -------------------------------------------------------------------
-Command 					|	Usages 
--------------------------------------------------------------------
 git status	                |	Shows the status of the git repo 
  							|	that how many files are committed 
  							|	or not
